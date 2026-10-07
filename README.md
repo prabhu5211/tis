@@ -5,8 +5,8 @@ A modern, high-converting, animated redesign of the **Tula's International Schoo
 ---
 
 ## 🚀 Live Demo & Links
-- **Live URL:** [TIS Homepage Redesign Live Demo](https://tis-homepage-redesign.vercel.app) *(Deploy to Vercel/Netlify)*
-- **Repository:** [GitHub Repository](https://github.com/your-username/tis-homepage-redesign)
+- **Live URL:** [TIS Homepage Redesign Live Demo](https://tis.vercel.app) *(Connected to Vercel GitHub Integration)*
+- **Repository:** [https://github.com/prabhu5211/tis.git](https://github.com/prabhu5211/tis.git)
 
 ---
 
